@@ -32,7 +32,7 @@ Quick, real world oriented tests and small prototype interactions.
 * Explore communication and alignment
 * Build small, interpretable, reusable experiments
 
-RESARCH INFO
+RESEARCH INFO
 ---
 📘 Research.1 Summary/Comparative Analysis of AI Models
 ---
