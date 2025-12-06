@@ -74,6 +74,47 @@ A full, detailed version of this research including tables, test images, and com
 👉 Full Research Document: 
 https://drive.google.com/file/d/1jyFAxaYCE9s1sWAeufudpgZMtIZxPyMr/view?usp=sharing
 
+📘 Research.2 AI and the Evolution of Software Industry Roles
+---
+This research examines how AI reshapes software and IT roles across three categories: declining roles reduced by automation, transforming roles adapting to evolving workflows, and emerging roles in fields such as security, automation design, and human-AI interaction. It shows that future professionals must align technical, strategic, and ethical skills.
+
+📉 Declining Roles
+---
+Routine, repetitive, and entry-level positions show the highest automation risk:
+* Junior Developer
+* Manual QA / Test Case Writer
+* L1 Helpdesk & Support
+* Data Entry (IT)
+* Template Based Web Designer
+Reason: AI-generated code, autonomous testing, and no-code/LLM automation reduce human involvement.
+
+🔄 Transforming Roles
+---
+Traditional operational roles evolve toward automation, cloud, and architecture:
+* System Administrator → CloudOps / Autonomous Infra
+* DBA → Data Architecture
+* Network Admin → SDN Automation
+Reason: AI accelerates cloud migration and self healing infrastructure.
+
+🆕 Emerging Roles
+---
+New roles appear in AI safety, orchestration, ethics, optimization, and machine behavior monitoring:
+* AI Agent Orchestrator
+* LLMOps Engineer
+* Generative AI Security Expert
+* Explainability (XAI) Designer
+* AI Compliance & Ethics Analyst
+Reason: Multi-agent ecosystems, AI governance, and security require specialized human oversight.
+
+⚠️ Disclaimer
+---
+This is a scientific forecast, not a deterministic outcome.
+Projections are based on current AI capabilities and global market trends.
+The 15 year prediction window (2025-2040) may shorten or extend depending on technological, economic, or regulatory developments.
+
+👉 Full Research Document: 
+https://drive.google.com/file/d/1tijTx0fWOHJG0YT-Kk0yNMqn_lKC8d3J/view?usp=sharing
+
 📜 License
 
 This project is licensed under the MIT License.
