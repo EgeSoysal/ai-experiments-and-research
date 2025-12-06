@@ -1,5 +1,5 @@
 # ai-experiments-and-research
-Independent AI research focused on practical and lightweight experiments, human AI interaction, simple model behaviors, and exploratory studies in machine learning. A collection of small-scale analyses, prototypes, and observations aimed at understanding how AI systems interact with users and real world scenarios.
+Independent AI research focused on practical and lightweight experiments, human AI interaction, simple model behaviors, and exploratory studies in machine learning. A collection of small-scale analyses, prototypes, and observations aimed at understanding how AI systems interact with users and real/world scenarios.
 
 🧠 Overview
 ---
@@ -31,6 +31,41 @@ Quick, real world oriented tests and small prototype interactions.
 * Document insights, failures, and patterns
 * Explore communication and alignment
 * Build small, interpretable, reusable experiments
+
+📘 Research.1 Summary/Comparative Analysis of AI Models
+
+This research presents a comparative evaluation of three freely accessible AI models: ChatGPT, Gemini, and Copilot tested across three multimodal skill areas: photo generation, software development, and mathematical reasoning.
+The study measures speed, technical skill, and comprehension accuracy using identical prompts and tasks to ensure fair comparison.
+
+🖼️ Photo Generation
+---
+Two visual prompts were tested, evaluating creativity, technical quality, and how accurately each model understood the description.
+* Gemini consistently performed the fastest and delivered the most balanced image quality.
+* ChatGPT showed strong interpretative accuracy but lower visual fidelity.
+* Copilot produced acceptable outputs but responded significantly slower.
+
+💻 Software Development
+---
+Models were asked to create a C# To-Do List app:
+* Gemini completed the task fastest and added interactive checkboxes.
+* ChatGPT produced the most logically complete structure but lacked visual interactivity.
+* Copilot generated a functional but basic application.
+
+🧮 Mathematical Reasoning
+---
+All models solved the percentage/tax problem correctly:
+* Copilot was the fastest and highest scoring.
+* ChatGPT and Gemini tied in reasoning performance.
+
+🏁 Overall Result
+---
+* Gemini ranked highest overall, especially in visual and interactive tasks.
+* ChatGPT excelled in reasoning and structured explanations.
+* Copilot performed best in fast mathematical computation but lagged in creativity.
+
+A full, detailed version of this research including tables, test images, and complete analysis can be accessed here:
+👉 Full Research Document: 
+https://drive.google.com/file/d/1jyFAxaYCE9s1sWAeufudpgZMtIZxPyMr/view?usp=sharing
 
 📜 License
 
