@@ -33,6 +33,7 @@ Quick, real world oriented tests and small prototype interactions.
 * Build small, interpretable, reusable experiments
 
 RESARCH INFO
+---
 📘 Research.1 Summary/Comparative Analysis of AI Models
 ---
 This research presents a comparative evaluation of three freely accessible AI models: ChatGPT, Gemini, and Copilot tested across three multimodal skill areas: photo generation, software development, and mathematical reasoning.
