@@ -39,11 +39,6 @@ RESEARCH INFO
 This research presents a comparative evaluation of three freely accessible AI models: ChatGPT, Gemini, and Copilot tested across three multimodal skill areas: photo generation, software development, and mathematical reasoning.
 The study measures speed, technical skill, and comprehension accuracy using identical prompts and tasks to ensure fair comparison.
 
-📘 Research.2 AI and the Evolution of Software Industry Roles
----
-This research examines how AI reshapes software and IT roles across three categories: declining roles reduced by automation, transforming roles adapting to evolving workflows, and emerging roles in fields such as security, automation design, and human-AI interaction. It shows that future professionals must align technical, strategic, and ethical skills.
-
-
 🖼️ Photo Generation
 ---
 Two visual prompts were tested, evaluating creativity, technical quality, and how accurately each model understood the description.
